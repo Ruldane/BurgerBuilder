@@ -2,37 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ba561d-fb27-4a79-9c94-54c162c317dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/00db1d44e996b619236260eaf7577801be4948cf.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2371845a5e7630ca4577597518802fe52aea939b.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/27e00026b28ec7849d1c0f641c30f8e4e20693fe.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4f4c18e49be9f5fc0e4d09ea8c83380cabe86166.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/576ff72420252d7eb9e67c4bd458f72fdf545cbf.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6dc90b0a303a90eec06fa4acdbfda70ada193fc2.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6f20e11e4c4dcee267ccf9c94bbc1e9b9c3b972d.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8116126b75b91a7807d73dceba20e30ee3397a66.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/815e85ea3dd6f4bf7626e393fface3225f8013af.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/868b9088999208e7cec039439e916d8a912cfefe.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/8fecb5f5dc47adbf09038ee09609e8b799d963c1.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9ef69b43749a720c2415552d665b17d819d32c0a.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b1302b36c0de0a3e24dfbb0141cd2a6fb4fda40c.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d4d513493699527554b1be0225c4bd49e1e9fddd.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d8f0602f5e30e0700b5d896f95b930225f94f170.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/dbd84b7bf43e21368c4958791c3d04af3bdfd93a.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e2cdf724533d02e392ef74e50c1ff9420532daf0.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e396906ae30b9989275efa6b57a1ec62594eb27d.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e4a3863624404c9c576d5fd91a4b96ec541c1d07.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e5528e4d8601f06cd822763bfd716c4d03c8fc75.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/e640bcdd99392f214e73a75a74aa3e1e57db127e.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/edcc823db8fc65fa16dc176a0d6b0fd8f75c8a01.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f0c914ef51a4bab9212d073a81bbb980cebb25d9.json.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +34,11 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -81,7 +58,8 @@
       <workItem from="1580752023194" duration="1452000" />
       <workItem from="1580754110766" duration="1488000" />
       <workItem from="1580759754195" duration="246000" />
-      <workItem from="1580763118285" duration="1157000" />
+      <workItem from="1580763118285" duration="1704000" />
+      <workItem from="1580846678246" duration="4018000" />
     </task>
     <servers />
   </component>
@@ -93,10 +71,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="214" width="800" height="677" key="#ESLint/67.27.1853.1053@67.27.1853.1053" timestamp="1580676792477" />
-    <state x="679" y="357" width="618" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580676829818">
+    <state x="679" y="357" width="618" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580846985244">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="679" y="357" width="618" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580676829818" />
+    <state x="679" y="357" width="618" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580846985244" />
     <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1580545286127">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -113,10 +91,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580545286126" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1580666953878">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580848683349">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580666953878" />
+    <state width="498" height="446" key="SwitcherDM/67.27.1853.1053@67.27.1853.1053" timestamp="1580848683349" />
     <state x="657" y="253" key="run.anything.popup" timestamp="1580670343435">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
